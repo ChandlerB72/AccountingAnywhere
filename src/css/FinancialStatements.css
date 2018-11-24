@@ -1,0 +1,34 @@
+/*
+Classes
+*/
+.table{
+    width:60%;
+    margin:auto;
+}
+.table-title{
+    text-align:center;
+    
+}
+
+.title{
+    text-align:center;
+    margin:60px;
+}
+.total{
+    border-top:2px solid black;
+    text-decoration-line:underline;
+    text-decoration-style:double;
+    
+}
+.subtotal{
+    text-decoration: underline overline;
+}
+/*
+IDS
+*/
+#change-sheet{
+text-align: center;
+}
+#change-sheet button{
+    margin:30px;
+}

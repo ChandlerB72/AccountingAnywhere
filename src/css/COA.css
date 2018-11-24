@@ -1,0 +1,26 @@
+/*
+
+Chart of accounts
+
+*/
+legend{
+    margin:5%;
+}
+#COA-table tr td{
+margin: auto;
+}
+.table-header-row{
+    background-color:#393a3d;
+    color:white;
+}
+.totalcredits{
+    
+}
+/*
+tags
+*/
+a{
+    color:black;
+    display:block;
+    text-decoration: none;
+}

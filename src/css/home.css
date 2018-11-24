@@ -1,0 +1,9 @@
+.navbar-brand{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+legend{
+    margin-top:5%;
+    margin-bottom:5%;
+}
